@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://zsollt88.github.io/Product-preview-card/)
+- Solution URL: [https://zsollt88.github.io/Product_preview_card/)
 
 
 ## My process
